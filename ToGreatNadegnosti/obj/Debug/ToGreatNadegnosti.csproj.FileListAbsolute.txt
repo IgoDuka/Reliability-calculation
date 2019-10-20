@@ -1,0 +1,12 @@
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\bin\Debug\ToGreatNadegnosti.exe.config
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\bin\Debug\ToGreatNadegnosti.exe
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\bin\Debug\ToGreatNadegnosti.pdb
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.csprojAssemblyReference.cache
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.Form1.resources
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.Grafics.resources
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.Properties.Resources.resources
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.csproj.GenerateResource.cache
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.exe
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.pdb
+C:\Users\Mr. Igor\source\repos\ToGreatNadegnosti\ToGreatNadegnosti\obj\Debug\ToGreatNadegnosti.Graphic_forSaving.resources
